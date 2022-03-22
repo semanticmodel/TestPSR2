@@ -1,6 +1,7 @@
 {
   "database" : {
     "name" : "MyDatabase",
+    "description" : "qwe\n",
     "databaseType" : "ORACLE_DATABASE",
     "connectionPools" : [ {
       "name" : "New Connection Pool_1",
